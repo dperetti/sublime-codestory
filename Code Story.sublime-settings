@@ -1,0 +1,8 @@
+{
+    "codestory_binary_path": { // #WGftq#
+        "osx": "/Applications/Code Story.app/Contents/MacOS/Code Story",
+        "windows": "C:/Program Files/Code Story/Code Story.exe",
+        "linux": "/opts/codestory-x86_64.AppImage",
+    },
+    "enable_highlighting": true // #vLqap#
+}

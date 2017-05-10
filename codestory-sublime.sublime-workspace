@@ -1,0 +1,1514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selec",
+				"selectedNote"
+			],
+			[
+				"Note",
+				"NoteRepresentation"
+			],
+			[
+				"NoteSe",
+				"NoteSectionSelector"
+			],
+			[
+				"get",
+				"getDateModified"
+			],
+			[
+				"he",
+				"headerHeight"
+			],
+			[
+				"N",
+				"NotesBrowserRow"
+			],
+			[
+				"Notes",
+				"NotesBrowserRow\tfn "
+			],
+			[
+				"selecte",
+				"selectedNoteRef"
+			],
+			[
+				"sele",
+				"selectedNoteRef"
+			],
+			[
+				"classn",
+				"classNames\tfn "
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"unde",
+				"undefined\t? "
+			],
+			[
+				"eidon",
+				"editingOn"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"header",
+				"header-height"
+			],
+			[
+				"Formo",
+				"FormGroup〔variable〕"
+			],
+			[
+				"C",
+				"ControlLabel\t? "
+			],
+			[
+				"file",
+				"fileExtensions〔variable〕"
+			],
+			[
+				"Input",
+				"InputGroup\t? "
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"refO",
+				"refToc"
+			],
+			[
+				"edit",
+				"editorConfig\t{} "
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"set",
+				"setContextMenuHandler"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"CodeS",
+				"CodeStoryTokenRegion"
+			],
+			[
+				"rena",
+				"renamedArchive〔variable〕"
+			],
+			[
+				"pla",
+				"platform\tstr "
+			],
+			[
+				"onc",
+				"onCloseDisclaimer"
+			],
+			[
+				"ex",
+				"executableName"
+			],
+			[
+				"to",
+				"toLowerCase〔function〕"
+			],
+			[
+				"reg",
+				"registration"
+			],
+			[
+				"ar",
+				"archiver"
+			],
+			[
+				"a",
+				"authoring"
+			],
+			[
+				"background",
+				"backgroundColor"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"mous",
+				"mouseOver"
+			],
+			[
+				"mouse",
+				"mouseOverStyle"
+			],
+			[
+				"reac",
+				"React"
+			],
+			[
+				"pr",
+				"props\tReact: this.props."
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "prettier",
+		"selected_items":
+		[
+			[
+				"prettier",
+				"JsPrettier: Format JavaScript"
+			],
+			[
+				"git",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"eslin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"fluent",
+				"Set Syntax: Fluentd"
+			],
+			[
+				"preferecode",
+				"Preferences: Code Story Settings"
+			],
+			[
+				"code",
+				"Code Story: Toggle"
+			],
+			[
+				"codes",
+				"Preferences: Code Story Settings"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format JavaScript"
+			],
+			[
+				"co",
+				"Code Story: Toggle"
+			],
+			[
+				"cod",
+				"Code Story: Toggle"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"edi",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"to",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"togsc",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"stand",
+				"Standard Format: Format current file"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"snip",
+				"Snippet: Prototype"
+			],
+			[
+				"sta",
+				"Standard Format: Format current file"
+			],
+			[
+				"prefere subli",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Diff View: Run custom diff..."
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Snippet: Files Object Format"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Snippet: React: wrap in a component"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"willr",
+				"Snippet: React: componentWillReceiveProps: fn(np) { ... }"
+			],
+			[
+				"plug",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gru",
+				"Snippet: grunt.registerTask"
+			],
+			[
+				"grunt",
+				"Snippet: Grunt Wrapper"
+			],
+			[
+				"prop",
+				"Snippet: React: propTypes { ... }"
+			],
+			[
+				"comp",
+				"Snippet: React: component skeleton"
+			],
+			[
+				"jsx",
+				"Set Syntax: CoffeeScript (JSX)"
+			],
+			[
+				"compo",
+				"Snippet: React: component skeleton"
+			]
+		],
+		"width": 486.0
+	},
+	"console":
+	{
+		"height": 301.0,
+		"history":
+		[
+			"sublime.platform()",
+			"sett.get('codestory_binary_path')",
+			"sett = sublime.load_settings('Code Story.sublime-settings')",
+			"sublime.load_settings('Code Story.sublime-settings')",
+			"sublime.Settings.get('codestory_binary_path')",
+			"sublime.Settings",
+			"sublime",
+			"re.match('.+\\.codestory$', 'Code Story Sublime Plugin.codestory')",
+			"re.match('.+\\.codestory$', 'A Truc.codestor')",
+			"re.match('.+\\.codestory$', 'A Truc.codestory')",
+			"re.match('.+\\.codestory$', 'Truc.codestory')",
+			"import re",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dom/Dropbox/dev/codestory-sublime/Code Story"
+	],
+	"file_history":
+	[
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/NewNoteModal.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/NoteSelectorModal.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/Inspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteRepresentation/noteRepresentation.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteRepresentation/NoteRepresentation.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/InlineNoteSelector/InlineNoteSelector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Collapsable.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/ParentNoteSelector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/NoteSectionSelector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/ReferenceInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/ImageGroupInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector/JSONInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Inspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/Store.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/Actions.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/NoteEntity.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ParentNoteSelector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NotesBrowser/NotesBrowser.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/utilities/Animator.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NotesBrowser/notesbrowser.less",
+		"/Users/dom/Dropbox/dev/codestory/package.json",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ImageGroupView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Main/Main.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/Constants.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/JSONView.js",
+		"/Users/dom/Dropbox/dev/codestory/cs2.codestory/data.codestory",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NotesBrowser/NotesBrowserRow.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Main/main.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Panel.js",
+		"/Users/dom/Dropbox/dev/codestory/src/browser/js/lib/DocumentManager.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/Entity.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteLabel/NoteLabel.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteLabel/notelabel.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteLabel.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NoteSelector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/NewReferenceViewModal.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/NewCodeViewModal.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/toc.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/CodeView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/codeview-fullscreen.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ReferenceInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/TableOfContents.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/BaseCodeEditorView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/CodeViewFullScreenPanel.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/FileTree/FileTree.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/panel.less",
+		"/Users/dom/Dropbox/dev/codestory/src/browser/js/lib/Core.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/app.js",
+		"/Users/dom/Dropbox/dev/codestory/src/browser/js/menuTemplate.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/FavoritePinnedFiles/FavoritePinnedFiles.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/UIStore.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/PinnedFilesPanel.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/variables.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/globalPrefs/GPrefsExternalEditors.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/NumericStepper.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/globalPrefs/EditorItem.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/CodeInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/code-inspector.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/Related.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ImageGroupInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/HeadingInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/modals/ProjectSettings.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/less/projectroots.less",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/settings/ProjectRoot.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/settings/ProjectRoots.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/FileBrowser.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/globalPrefs/GlobalPrefs.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ShellScriptView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/BaseView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/TOCItem.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/FavoritePinnedFiles/FileView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/CodeMirror/ReactCodeMirror.js",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/Code Story/codestory.py",
+		"/Users/dom/.zshrc",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ContextMenuDecorator.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ImageSubview.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/PinnedFiles/File.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ContextMenuDecorator2.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ContentEditable.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/TextView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/EditorView.js",
+		"/Users/dom/Dropbox/dev/codestory-web/codestory-web/docker/fluentd/fluent.conf",
+		"/Users/dom/Dropbox/dev/codestory-web/codestory-web/docker/Dockerfile",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/GeneralStore.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/JSONInspector.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/ContentEntity.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/JSONEntity.js",
+		"/Users/dom/Dropbox/dev/codestory/.eslintrc",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/JSONEditor/JSONLeaf.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/JSONEditor/JSONEditor.js",
+		"/Users/dom/Dropbox/dev/codestory/codestory.sublime-project",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/TextEntity.js",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/Code Story/codestory_settings.py",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/Code Story/Main.sublime-menu",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/Code Story/Default.sublime-commands",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/Code Story/Code Story.sublime-settings",
+		"/Users/dom/Dropbox/dev/codestory/src/browser/js/browser.js",
+		"/Users/dom/Dropbox/dev/codestory/build_all.sh",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/User/Code Story.sublime-settings",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/flux/entities/StepEntity.js",
+		"/Users/dom/Dropbox/dev/codestory/src/browser/stationary.codestory/data.codestory",
+		"/Users/dom/Dropbox/dev/codestory/build/dev/stationary.codestory/data.json",
+		"/Users/dom/Dropbox/dev/codestory/webpack/webpack.browser.base-config.js",
+		"/Users/dom/Dropbox/dev/codestory/webpack/webpack.common.js",
+		"/Users/dom/Dropbox/dev/codestory/distribute/appify.js",
+		"/Users/dom/Dropbox/dev/codestory/build/dev/disclaimer.html",
+		"/Users/dom/Dropbox/dev/codestory/misc/CodeStory ALL.sketch",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/Default.sublime-commands",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/codestory_settings.py",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/codestory.py",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/CodeStory.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/User/CodeStory.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/codestoryyy.py",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/Main.sublime-menu",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/CodeStory-OSX.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/CodeStory.tmTheme",
+		"/Users/dom/Dropbox/dev/pgpilot/pgpilot-webapp/build_image.sh",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/HeadingView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/StepView.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/InlineToolbar/InlineToolbar.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/InlineToolbar/Toolbar.js",
+		"/Users/dom/Dropbox/dev/codestory/src/renderer/js/react/ToolbarButton.js",
+		"/Users/dom/Dropbox/dev/codestory/.buildInfo",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/CodeStory/FindResults.hidden-tmTheme"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/dom/Dropbox/dev/codestory/node_modules/node-dir",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(NoteEnti",
+			"disabled={this.props.note.getParentRef",
+			"sections",
+			"NoteEntity",
+			"FormGroup",
+			"LaunchModal",
+			"NoteSelectorModal",
+			"modal",
+			"sectionRef",
+			"requestanimationfr",
+			"afterframe",
+			"nextframe",
+			"handleClickTarget",
+			"shouldComponentUpdate",
+			"\"notes\"",
+			"getNotes()",
+			"sortedNotes",
+			"notes",
+			"props.notes",
+			"sortedNotes",
+			"notes",
+			"clickHandler",
+			"onSelectNote",
+			"sections",
+			"title",
+			"_sort",
+			"sortBy",
+			"transfor",
+			"ReactVirtualized__Table__headerRow",
+			"cap",
+			"box-shadow",
+			"selected",
+			"import classnames",
+			"rowClassName",
+			"date",
+			"background",
+			"odd",
+			"even",
+			"selected",
+			"scrollToSelected",
+			"column",
+			"get(",
+			"new BrowserWindow",
+			"new Browser",
+			".notes-browser",
+			"buttongr",
+			"Immutable.List()",
+			"Action",
+			"NoteSelectorModal",
+			"LaunchModal(",
+			"LaunchModal",
+			"currentModal",
+			"handleNewReference",
+			"NewReferenceViewModal",
+			"newreferenceview",
+			"handleCreate",
+			"before",
+			"handleHide",
+			"ControlLabel",
+			"2d6b6a80-0c66-11e5-b996-4da91d5e1096",
+			"noteRef",
+			"entityFactory",
+			"7f0f30d0-8562-11e6-9951-9b89c04348d1",
+			"30529880-5960-11e5-a8ad-0f2a800f6fd0",
+			"9abd2d70-7e54-11e5-b9e7-3daeea8fddc5",
+			"9abd2d70",
+			"30529880-5960-11e5-a8ad-0f2a800f6fd0",
+			"related fil",
+			"c2d4fed0-e3ea-11e6-b2d0-dbb1cd74db9e",
+			"c2d4fed0-e3ea-11e6-b2d0-dbb1cd74db9e\",\n            \"settings\": {},",
+			"Related notes",
+			"Related items",
+			"Related panel",
+			"selectedNote",
+			"classNames",
+			"selectedNote",
+			"Reference",
+			"(true)",
+			"getScrollInfo",
+			"codeview-fullscreen",
+			"fullscreen",
+			"header",
+			"codeViewFullScreen",
+			"<head",
+			"codeview-fullscreen",
+			"centralComponentClassName",
+			"codeview-fullscreen",
+			"filetree-wrapper",
+			"flex",
+			"overflow-y",
+			"_onChange",
+			"_onch",
+			"order",
+			"item",
+			"update(",
+			"dateModified",
+			"updateItemOfSelectedNote",
+			"updateDateModified",
+			"(data",
+			"thead>",
+			";",
+			"_onChange",
+			"display",
+			".searching",
+			"search",
+			"searchResults",
+			"search",
+			"displayNotesBrowser",
+			"projectToggleDisplayNotesBrowser",
+			"onToggleDisplayNotesBrowser",
+			"displayFavoritePinnedFiles",
+			"pinnedfiles",
+			"onToggleDisplayNotesBrowser",
+			"onToggleNotesBrowser",
+			"handleToggleDisplayNotesBrowser",
+			"handleToggleDisplayFavoritePinnedFiles",
+			"displayFavoritePinnedFiles",
+			"width",
+			"generateAnimation",
+			"width",
+			"right",
+			"displayFavoritePinnedFiles",
+			"animator",
+			"noAnimation",
+			"leftSidebarWidth",
+			"openClose",
+			"stretch",
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ContextMenuDecorator",
+			"Code Story",
+			"codestory_binary_setting",
+			"codestory_binary_path"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 459.0
+	},
+	"output.scopehunter.results":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "codestory-sublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"collap",
+				"codestory/src/renderer/js/react/Collapsable.js"
+			],
+			[
+				"inline",
+				"codestory/src/renderer/js/react/InlineNoteSelector/InlineNoteSelector.js"
+			],
+			[
+				"newnot",
+				"codestory/src/renderer/js/react/modals/NewNoteModal.js"
+			],
+			[
+				"noteselect",
+				"codestory/src/renderer/js/react/InlineNoteSelector/InlineNoteSelector.js"
+			],
+			[
+				"noteselemo",
+				"codestory/src/renderer/js/react/modals/NoteSelectorModal.js"
+			],
+			[
+				"parent",
+				"codestory/src/renderer/js/react/Inspector/ParentNoteSelector.js"
+			],
+			[
+				"newno",
+				"codestory/src/renderer/js/react/modals/NewNoteModal.js"
+			],
+			[
+				"notesel",
+				"codestory/src/renderer/js/react/Inspector/NoteSectionSelector.js"
+			],
+			[
+				"inspe",
+				"codestory/src/renderer/js/react/Inspector/Inspector.js"
+			],
+			[
+				"newnote",
+				"codestory/src/renderer/js/react/modals/NewNoteModal.js"
+			],
+			[
+				"selector",
+				"codestory/src/renderer/js/react/modals/NoteSelectorModal.js"
+			],
+			[
+				"parentn",
+				"codestory/src/renderer/js/react/Inspector/ParentNoteSelector.js"
+			],
+			[
+				"jsonins",
+				"codestory/src/renderer/js/react/Inspector/JSONInspector.js"
+			],
+			[
+				"imagegrou",
+				"codestory/src/renderer/js/react/Inspector/ImageGroupInspector.js"
+			],
+			[
+				"refereins",
+				"codestory/src/renderer/js/react/Inspector/ReferenceInspector.js"
+			],
+			[
+				"inspec",
+				"codestory/src/renderer/js/react/Inspector.js"
+			],
+			[
+				"actions",
+				"codestory/src/renderer/js/flux/Actions.js"
+			],
+			[
+				"notemodal",
+				"codestory/src/renderer/js/react/modals/NoteSelectorModal.js"
+			],
+			[
+				"notesbro",
+				"codestory/src/renderer/js/react/NotesBrowser/NotesBrowser.js"
+			],
+			[
+				"cs2",
+				"codestory/cs2.codestory/data.codestory"
+			],
+			[
+				"mainjs",
+				"codestory/src/renderer/js/react/Main/Main.js"
+			],
+			[
+				"consta",
+				"codestory/src/renderer/js/flux/Constants.js"
+			],
+			[
+				"notes",
+				"codestory/src/renderer/js/react/modals/NoteSelectorModal.js"
+			],
+			[
+				"packa",
+				"codestory/package.json"
+			],
+			[
+				"panel",
+				"codestory/src/renderer/js/react/Panel.js"
+			],
+			[
+				"pac",
+				"codestory/package.json"
+			],
+			[
+				"noteb",
+				"codestory/src/renderer/js/react/NotesBrowser/NotesBrowserRow.js"
+			],
+			[
+				"notebr",
+				"codestory/src/renderer/js/react/NotesBrowser/NotesBrowser.js"
+			],
+			[
+				"notene",
+				"codestory/src/renderer/js/flux/entities/NoteEntity.js"
+			],
+			[
+				"notela",
+				"codestory/src/renderer/js/react/NoteLabel.js"
+			],
+			[
+				"noteselmo",
+				"codestory/src/renderer/js/react/modals/NoteSelectorModal.js"
+			],
+			[
+				"parentnot",
+				"codestory/src/renderer/js/react/ParentNoteSelector.js"
+			],
+			[
+				"modal",
+				"codestory/src/renderer/js/react/modals/NewReferenceViewModal.js"
+			],
+			[
+				"new",
+				"codestory/src/renderer/js/react/modals/NewCodeViewModal.js"
+			],
+			[
+				"mainles",
+				"codestory/src/renderer/js/react/Main/main.less"
+			],
+			[
+				"notesele",
+				"codestory/src/renderer/js/react/NoteSelector.js"
+			],
+			[
+				"noteen",
+				"codestory/src/renderer/js/flux/entities/NoteEntity.js"
+			],
+			[
+				"mainj",
+				"codestory/src/renderer/js/react/Main/Main.js"
+			],
+			[
+				"notebrol",
+				"codestory/src/renderer/js/react/NotesBrowser/notesbrowser.less"
+			],
+			[
+				"tabl",
+				"codestory/src/renderer/js/react/TableOfContents.js"
+			],
+			[
+				"refeinsp",
+				"codestory/src/renderer/js/react/ReferenceInspector.js"
+			],
+			[
+				"insp",
+				"codestory/src/renderer/js/react/Inspector.js"
+			],
+			[
+				"baseed",
+				"codestory/src/renderer/js/react/BaseCodeEditorView.js"
+			],
+			[
+				"fullsc",
+				"codestory/src/renderer/less/codeview-fullscreen.less"
+			],
+			[
+				"constan",
+				"codestory/src/renderer/js/flux/Constants.js"
+			],
+			[
+				"store",
+				"codestory/src/renderer/js/flux/Store.js"
+			],
+			[
+				"noten",
+				"codestory/src/renderer/js/flux/entities/NoteEntity.js"
+			],
+			[
+				"menu",
+				"codestory/src/browser/js/menuTemplate.js"
+			],
+			[
+				"menute",
+				"codestory/src/browser/js/menuTemplate.js"
+			],
+			[
+				"pan",
+				"codestory/src/renderer/js/react/Panel.js"
+			],
+			[
+				"contst",
+				"codestory/src/renderer/js/flux/Constants.js"
+			],
+			[
+				"favor",
+				"codestory/src/renderer/js/react/FavoritePinnedFiles/FavoritePinnedFiles.js"
+			],
+			[
+				"pinne",
+				"codestory/src/renderer/js/react/modals/PinnedFilesPanel.js"
+			],
+			[
+				"documen",
+				"codestory/src/browser/js/lib/DocumentManager.js"
+			],
+			[
+				"codeinsle",
+				"codestory/src/renderer/less/code-inspector.less"
+			],
+			[
+				"codeinsp",
+				"codestory/src/renderer/js/react/CodeInspector.js"
+			],
+			[
+				"numeric",
+				"codestory/src/renderer/js/react/NumericStepper.js"
+			],
+			[
+				"",
+				"codestory/src/renderer/js/react/globalPrefs/EditorItem.js"
+			],
+			[
+				"edit",
+				"codestory/src/renderer/js/react/globalPrefs/EditorItem.js"
+			],
+			[
+				"edito",
+				"codestory/src/renderer/js/react/globalPrefs/EditorItem.js"
+			],
+			[
+				"prefer",
+				"codestory/src/renderer/js/react/globalPrefs/EditorItem.js"
+			],
+			[
+				"prefere",
+				"codestory/src/renderer/js/react/globalPrefs/GPrefsExternalEditors.js"
+			],
+			[
+				"filebro",
+				"codestory/src/renderer/js/react/FileBrowser.js"
+			],
+			[
+				"projectset",
+				"codestory/src/renderer/js/react/modals/ProjectSettings.js"
+			],
+			[
+				"proje",
+				"codestory/src/renderer/js/react/settings/ProjectRoots.js"
+			],
+			[
+				"relate",
+				"codestory/src/renderer/js/react/Related.js"
+			],
+			[
+				"numer",
+				"codestory/src/renderer/js/react/NumericStepper.js"
+			],
+			[
+				"image",
+				"codestory/src/renderer/js/react/ImageGroupInspector.js"
+			],
+			[
+				"codeins",
+				"codestory/src/renderer/js/react/CodeInspector.js"
+			],
+			[
+				"imageins",
+				"codestory/src/renderer/js/react/ImageGroupInspector.js"
+			],
+			[
+				"headinin",
+				"codestory/src/renderer/js/react/HeadingInspector.js"
+			],
+			[
+				"num",
+				"codestory/src/renderer/js/react/NumericStepper.js"
+			],
+			[
+				"codevi",
+				"codestory/src/renderer/js/react/CodeView.js"
+			],
+			[
+				"shell",
+				"codestory/src/renderer/js/react/ShellScriptView.js"
+			],
+			[
+				"basev",
+				"codestory/src/renderer/js/react/BaseView.js"
+			],
+			[
+				"tocitem",
+				"codestory/src/renderer/js/react/TOCItem.js"
+			],
+			[
+				"codes",
+				"Sublime plugin/codestory.py"
+			],
+			[
+				"context",
+				"codestory/src/renderer/js/react/ContextMenuDecorator2.js"
+			],
+			[
+				"table",
+				"codestory/src/renderer/js/react/TableOfContents.js"
+			],
+			[
+				"content",
+				"codestory/src/renderer/js/react/ContentEditable.js"
+			],
+			[
+				"editor",
+				"codestory/src/renderer/js/react/EditorView.js"
+			],
+			[
+				"basevi",
+				"codestory/src/renderer/js/react/BaseView.js"
+			],
+			[
+				"json",
+				"codestory/src/renderer/js/react/JSONView.js"
+			],
+			[
+				"eslin",
+				"codestory/.eslintrc"
+			],
+			[
+				"jsonen",
+				"codestory/src/renderer/js/flux/entities/JSONEntity.js"
+			],
+			[
+				"jsonvie",
+				"codestory/src/renderer/js/react/JSONView.js"
+			],
+			[
+				"enti",
+				"codestory/src/renderer/js/flux/entities/Entity.js"
+			],
+			[
+				"codemodal",
+				"codestory/src/renderer/js/react/modals/NewCodeViewModal.js"
+			],
+			[
+				"mianj",
+				"codestory/src/renderer/js/react/Main/Main.js"
+			],
+			[
+				"builda",
+				"codestory/build_all.sh"
+			],
+			[
+				"brow",
+				"codestory/src/browser/js/browser.js"
+			],
+			[
+				"toc",
+				"codestory/src/renderer/js/react/TableOfContents.js"
+			],
+			[
+				"pack",
+				"codestory/package.json"
+			],
+			[
+				"co",
+				"Sublime plugin/codestory.py"
+			],
+			[
+				"cod",
+				"Sublime plugin/codestory.py"
+			],
+			[
+				"code",
+				"Sublime plugin/codestory.py"
+			],
+			[
+				"settings",
+				"Sublime plugin/codestory_settings.py"
+			],
+			[
+				"webpack",
+				"codestory/webpack/webpack.common.js"
+			],
+			[
+				"js",
+				"codestory/src/renderer/js/react/JSONView.js"
+			],
+			[
+				"setp",
+				"codestory/src/renderer/js/react/StepView.js"
+			],
+			[
+				"text",
+				"codestory/src/renderer/js/react/TextView.js"
+			],
+			[
+				"head",
+				"codestory/src/renderer/js/react/HeadingView.js"
+			],
+			[
+				"headiv",
+				"codestory/src/renderer/js/react/HeadingView.js"
+			],
+			[
+				"hea",
+				"codestory/src/renderer/js/react/HeadingView.js"
+			],
+			[
+				"jsoned",
+				"codestory/src/renderer/js/react/JSONEditor/JSONEditor.js"
+			],
+			[
+				"elsinr",
+				"codestory/.eslintrc"
+			],
+			[
+				"linux",
+				"codestory/distribute/linuxise.js"
+			],
+			[
+				"appi",
+				"codestory/distribute/appify.js"
+			],
+			[
+				"build",
+				"codestory/build_all.sh"
+			],
+			[
+				"buildj",
+				"codestory/webpack/build.js"
+			],
+			[
+				"br",
+				"codestory/webpack/webpack.browser.base-config.js"
+			],
+			[
+				"eslint",
+				"codestory/.eslintrc"
+			],
+			[
+				"discl",
+				"codestory/src/renderer/js/react/Welcome/disclaimer.less"
+			],
+			[
+				"welcome",
+				"codestory/src/renderer/js/react/Welcome/welcome.less"
+			],
+			[
+				"welcomle",
+				"codestory/src/renderer/less/welcome.less"
+			],
+			[
+				"wel",
+				"codestory/src/renderer/js/react/Welcome/Welcome.js"
+			],
+			[
+				"welcom",
+				"codestory/src/renderer/js/welcome.js"
+			],
+			[
+				"webp",
+				"codestory/webpack/webpack.renderer.base-config.js"
+			],
+			[
+				"app",
+				"codestory/src/renderer/js/app.js"
+			],
+			[
+				"wbcom",
+				"codestory/webpack/webpack.common.js"
+			],
+			[
+				"builjs",
+				"codestory/webpack/build.js"
+			],
+			[
+				"docum",
+				"codestory/src/browser/js/lib/DocumentManager.js"
+			],
+			[
+				"server",
+				"codestory/server.js"
+			],
+			[
+				"wbe",
+				"codestory/webpack/webpack.browser.base-config.js"
+			],
+			[
+				"set",
+				"codestory/distribute/setup_exize.js"
+			],
+			[
+				"serv",
+				"codestory/server.js"
+			],
+			[
+				"pre",
+				"build - dev/prefs-hot.html"
+			],
+			[
+				"render",
+				"codestory/webpack/webpack.renderer.dev-config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/ofg/ofg.sublime-project"
+			],
+			[
+				"ofg",
+				"~/Dropbox/ofg/ofg.sublime-project"
+			],
+			[
+				"eri",
+				"~/Dropbox/dev/eric-web/Eric.sublime-project"
+			],
+			[
+				"code",
+				"~/Dropbox/dev/codestory-web/codestory-web.sublime-project"
+			],
+			[
+				"o",
+				"~/Dropbox/ofg/ofg.sublime-project"
+			],
+			[
+				"codew",
+				"~/Dropbox/dev/codestory-web/codestory-web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 30.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gettitle",
+				"getTitle"
+			],
+			[
+				"documentas",
+				"getDocumentAsJS"
+			],
+			[
+				"documetna",
+				"getDocumentAsJS"
+			],
+			[
+				"enter",
+				"_enterFullScreen()"
+			],
+			[
+				"fullsc",
+				"codeview-fullscreen"
+			],
+			[
+				"sideb",
+				"sidebar-right"
+			],
+			[
+				"inspe",
+				"inspector"
+			],
+			[
+				"inspec",
+				"inspector"
+			],
+			[
+				"inspector",
+				"inspector"
+			],
+			[
+				"load",
+				"loadDocument"
+			],
+			[
+				"documeasj",
+				"getDocumentAsJS"
+			],
+			[
+				"documentasj",
+				"getDocumentAsJS"
+			],
+			[
+				"savedo",
+				"saveDocument: () =>"
+			],
+			[
+				"searc",
+				"searching"
+			],
+			[
+				"searching",
+				"searching"
+			],
+			[
+				"togglnote",
+				"handleToggleDisplayNotesBrowser()"
+			],
+			[
+				"projecsted",
+				"projectSetEditable: (value) =>"
+			],
+			[
+				"pane-ver",
+				"panel-verticalHandle"
+			],
+			[
+				"yosemite",
+				"@yosemite"
+			],
+			[
+				"projectsettings",
+				"project-settings"
+			],
+			[
+				"handlesearch",
+				"handleSearchChange"
+			],
+			[
+				"notefromr",
+				"noteFromRef"
+			],
+			[
+				"codemodal",
+				"NewCodeViewModal"
+			],
+			[
+				"token",
+				"getToken"
+			],
+			[
+				"is-context-menu-in-progress",
+				"is-context-menu-in-progress"
+			],
+			[
+				"titlen",
+				"title-animatable"
+			],
+			[
+				"title",
+				"title-animatable"
+			],
+			[
+				"selectednote",
+				"getSelectedNoteRef()"
+			],
+			[
+				"stepen",
+				"StepEntity"
+			],
+			[
+				"codes",
+				"CodeStoryToggleSettingsCommand"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"getselecteno",
+				"getSelectedNoteRef"
+			],
+			[
+				"m",
+				"Main"
+			],
+			[
+				"onme",
+				"on_message"
+			],
+			[
+				"main",
+				"MainHandler"
+			],
+			[
+				"getCommandToOpenInEditor",
+				"GeneralStore.getCommandToOpenInEditor"
+			],
+			[
+				"mousen",
+				"handleMouseEnter()"
+			],
+			[
+				"",
+				"(cm) =>"
+			],
+			[
+				"comp",
+				"componentDidMount()"
+			]
+		],
+		"width": 822.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

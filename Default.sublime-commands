@@ -1,0 +1,15 @@
+[
+	{
+	    "caption": "Code Story: Toggle Token Highlighting",
+	    "command": "code_story_toggle_settings", // #DEDxn#
+	    "args": {"setting": "enable_highlighting"}
+	},
+    {
+        "caption": "Code Story: Settings",
+        "command": "edit_settings", // #y22P9#
+        "args": {
+            "base_file": "${packages}/Code Story/Code Story.sublime-settings",
+            "default": "// Code Story Settings - User\n{\n\t$0\n}\n"
+        }
+    },
+]
