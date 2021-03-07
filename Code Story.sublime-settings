@@ -4,5 +4,6 @@
         "windows": "C:/Program Files/Code Story/Code Story.exe",
         "linux": "/opts/codestory-x86_64.AppImage",
     },
-    "enable_highlighting": true // #vLqap#
+    "enable_highlighting": true, // #vLqap#
+    "use_legacy_client": false, // #DCDMy#
 }

@@ -62,12 +62,17 @@ class CodeStoryListener(sublime_plugin.EventListener):
         """
         # remove the hash at the beginining and and of the token
         token = href[1:-1]
-        # get the path of the documentation
-        documentation_path = get_documentation_path(self.view)
-        if documentation_path is False:
-            sublime.error_message("No Code Story Documentation can be found")
-            return
-        cmd = [settings.codestory_binary_path, '-p', documentation_path, '-s', token]
+
+        if settings.get('use_legacy_client'):
+            # get the path of the documentation
+            documentation_path = get_documentation_path(self.view)
+            if documentation_path is False:
+                sublime.error_message("No Code Story Documentation can be found")
+                return
+            cmd = [settings.codestory_binary_path, '-p', documentation_path, '-s', token]
+        else:
+            file_path = self.view.window().extract_variables()['file']
+            cmd = [settings.codestory_binary_path, '-f', file_path, '-t', token]
         try:
             subprocess.Popen(cmd, shell=False)
         except Exception as e:
