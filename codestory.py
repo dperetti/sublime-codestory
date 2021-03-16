@@ -44,15 +44,14 @@ class CodeStoryListener(sublime_plugin.EventListener):
         # check if we're over one of the highlighted regions
         for r in self.regions:
             if r.contains(point):
-                documentation_path = get_documentation_path(view)
-                if documentation_path is False:
-                    view.show_popup('No Code Story Documentation can be found',
+                if settings.get('use_legacy_client') and get_documentation_path(view) is False:
+                    view.show_popup('No CodeStory Documentation can be found',
                                     sublime.HIDE_ON_MOUSE_MOVE_AWAY, point, 400, 400)
                 else:
                     # save the view because we'll need it in self.on_navigate()
                     self.view = view
                     token = view.substr(r)  # the string of the token
-                    view.show_popup('<a href="' + token + '" style="text-decoration: none">View in Code Story</a>',
+                    view.show_popup('<a href="' + token + '" style="text-decoration: none">View in CodeStory</a>',
                                     sublime.HIDE_ON_MOUSE_MOVE_AWAY, point, 400, 400, self.on_navigate)
 
     def on_navigate(self, href):  # #pGVgd#
@@ -67,7 +66,7 @@ class CodeStoryListener(sublime_plugin.EventListener):
             # get the path of the documentation
             documentation_path = get_documentation_path(self.view)
             if documentation_path is False:
-                sublime.error_message("No Code Story Documentation can be found")
+                sublime.error_message("No CodeStory Documentation can be found")
                 return
             cmd = [settings.codestory_binary_path, '-p', documentation_path, '-s', token]
         else:
@@ -103,6 +102,7 @@ class CodeStoryListener(sublime_plugin.EventListener):
 
 def find_up_documentation(file):
     """
+    [Legacy]
     Traverse up the hierarchy in order to find a Code Story documentation,
     starting from the folder of the specified file.
     """
@@ -120,6 +120,7 @@ def find_up_documentation(file):
 
 def get_documentation_path(view):
     """
+    [Legacy]
     Try to find the Code Story documentation of the project.
     It is first looked up in the project's settings, then in the User settings (not a great
     place for btw).
